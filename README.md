@@ -6,7 +6,7 @@ Interactively select a new branch
 
 ## Install
 
-`npm i -g git-switch-branch`
+`npm i -g switch-branch`
 
 Add as git alias: `git config --global alias.switch-branch git-switch-branch`
 
