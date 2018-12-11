@@ -2,6 +2,8 @@
 
 Interactively select a new branch
 
+![example gif 1](demo.gif)
+
 ## Install
 
 `npm i -g git-switch-branch`
