@@ -1,0 +1,18 @@
+{
+  "name": "git-switch-branch",
+  "version": "1.0.0",
+  "description": "Interactively switch branch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "git",
+    "branch"
+  ],
+  "author": "Guylian Cox <guyliancox@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^6.2.1"
+  }
+}
