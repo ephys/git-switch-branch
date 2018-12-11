@@ -6,6 +6,13 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "bin": {
+    "git-switch-branch": "./index.js"
+  },
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/Ephys/git-switch-branch.git"
+  },
   "keywords": [
     "git",
     "branch"
