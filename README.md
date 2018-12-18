@@ -1,5 +1,7 @@
 # git-switch-branch
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Ephys/git-switch-branch.svg)](https://greenkeeper.io/)
+
 Interactively select a new branch
 
 ![example gif 1](demo.gif)
